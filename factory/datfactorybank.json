@@ -1,0 +1,15 @@
+{
+	"name": "datfactorybank",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "183e63cf-92cd-4c1e-a6dd-a2c8a32f7500",
+		"tenantId": "4da7d353-bc08-4c37-aa80-2dadf986b086"
+	}
+}
