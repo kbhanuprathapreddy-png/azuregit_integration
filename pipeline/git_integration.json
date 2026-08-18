@@ -1,0 +1,17 @@
+{
+	"name": "git_integration",
+	"properties": {
+		"activities": [
+			{
+				"name": "git_congig",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
